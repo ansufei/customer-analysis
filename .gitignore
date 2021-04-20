@@ -1,0 +1,5 @@
+env
+.ipynb_checkpoints/
+*.csv
+IBM/
+.DS_Store
